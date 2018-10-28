@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fill the Blank</string>
+
+    <string name="main_start_game">Start game</string>
+    <string name="main_shop">Shop</string>
+    <string name="main_settings">Settings</string>
+    <string name="game_word_placeholder"><![CDATA[<fill in the blank>]]></string>
+    <string name="game_guess_label">Guess:</string>
+    <string name="game_guess_hint">Fill in the blank</string>
+    <string name="game_remaining">Remaining words: %d</string>
+
+</resources>
